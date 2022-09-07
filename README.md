@@ -9,7 +9,7 @@
 LZdk;alsdlaslkdsalklksadlkdsadsaklasklasdkdaskadsasdklaskldas
 
 # Welcome Message
-Welcome to Team 6's SC2006 Mini-Project. This Mini-Project gave our team the opportunity to venture beyond the syllabus
+Welcome to Good4U's SC2006 Mini-Project. This Mini-Project gave our team the opportunity to venture beyond the syllabus
 and gain insightful skills & knowledge through the analysis of real world data.
 
 We would also like to thank our TA Long Quanyu for constantly encouraging us to experiment with new methods in
