@@ -17,7 +17,7 @@ approaching our problems and this Mini-Project would not have been possible with
 in the field of Software Engineering.
 
 
-#Roles and Responsibility for Android Studio
+# Roles and Responsibility for Android Studio
 
 
 | Name          | Responsibility   | Github Account: |
