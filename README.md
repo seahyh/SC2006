@@ -1,7 +1,14 @@
-# SC2006
+# Good4U's Team Project: NextStage
 
 
-#Welcome Message
+# Table of Content
+
+- [Welcome Message](#welcome-message)
+- [Roles and Responsibility for Android Studio](#team-member)
+
+
+
+# Welcome Message
 Welcome to Team 6's SC2006 Mini-Project. This Mini-Project gave our team the opportunity to venture beyond the syllabus
 and gain insightful skills & knowledge through the analysis of real world data.
 
@@ -10,9 +17,7 @@ approaching our problems and this Mini-Project would not have been possible with
 in the field of Software Engineering.
 
 
-
-
-Roles and Responsibility for Android Studio
+#Roles and Responsibility for Android Studio
 
 
 | Name          | Responsibility   | Github Account: |
