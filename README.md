@@ -4,7 +4,7 @@
 # Table of Content
 
 - [Welcome Message](#welcome-message)
-- [Roles and Responsibility for Android Studio](#team-member)
+- [Team Members](#Roles-and-Responsibility-for-Android-Studio)
 
 
 
@@ -15,6 +15,8 @@ and gain insightful skills & knowledge through the analysis of real world data.
 We would also like to thank our TA Long Quanyu for constantly encouraging us to experiment with new methods in
 approaching our problems and this Mini-Project would not have been possible without her valuable feedback and expertise
 in the field of Software Engineering.
+
+
 
 
 # Roles and Responsibility for Android Studio
