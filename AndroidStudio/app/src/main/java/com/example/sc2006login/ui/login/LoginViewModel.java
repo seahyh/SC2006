@@ -49,6 +49,7 @@ public class LoginViewModel extends ViewModel {
             loginFormState.setValue(new LoginFormState(true));
         }
     }
+    //
 
     // A placeholder username validation check
     private boolean isUserNameValid(String username) {
