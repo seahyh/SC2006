@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/eckq/Documents/nextstage/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
+            "outputFile": "/Users/eckq/Documents/SC2006/nextStage/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/Users/eckq/Documents/nextstage/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/Users/eckq/Documents/SC2006/nextStage/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
